@@ -1,4 +1,9 @@
 // Javascript file for contacts programm activity on Open Class Room nov 2018
+/* Créer un programme qui permet à l'utilisateur de gérer des contacts.
+2 utilisations possibles 1_entrer de nouveaux contacts 2_lister les contacts*/
+
+
+
 // CREER L'objet prototype Contact
 
 var Contact = {
