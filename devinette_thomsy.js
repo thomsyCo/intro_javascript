@@ -1,8 +1,9 @@
-/* 
-Activité : jeu de devinette
-*/
 
 // Activité 1 Open class room Apprenez à coder avec javascript.
+
+/* Jeu de devinette : programme qui propose à l'utilisateur d'entrer un nombre compris entre 0 et 100.
+Six essais sont proposés à l'utilisateur pour trouver le bon nombre. Après chaque essai le programme indique si le nombre à deviner et "plus petit" ou "plus grand" que le nombre entré par l'utilisateur.
+Si l'utilisateur devine le bon nombre dans les six essais qui lui sont accordés le programme affiche un message "bravo" sinon le programme s'arrête après la dernière tentative et affiche  "Perdu... la solution était : .." */
 
 
 // NE PAS MODIFIER OU SUPPRIMER LES LIGNES CI-DESSOUS
