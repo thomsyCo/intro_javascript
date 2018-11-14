@@ -1,0 +1,16 @@
+﻿Gérer son code avec Git et GitHub
+Activité Partie 2 : Partager un repository sur GitHub
+
+
+
+L'URL de mon repository : https://github.com/thomsyCo/intro_javascript.git
+
+
+Pour info :
+
+Au chapitre précédent, lors de la modification de fichier en direct sur GitHub,
+le bouton "commit changes" était grisé, inactif
+. Même après avoir rempli les champs "Updates", et "add an optional extended description", 
+le commit était refusé.
+
+Une idée ? 
